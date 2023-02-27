@@ -4,7 +4,7 @@
     Hi, I'm Zac, a Full Stack Engineer with a passion for JavaScript technologies. I am constantly striving to learn all aspects of Web Development and am always on the lookout for new technologies that can help solve real-life problems. With my knack for problem-solving and a sharp product mindset, I am eager to be involved in every step of the software design process, creating high-performing, scalable, and secure products.
 </div>
 
-<br/><a href="https://www.linkedin.com/in/zachariahmarch"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<br/><a href="https://www.linkedin.com/in/zachariah-march"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="mailto:zacmarch101@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 
 # Technologies & Tools
