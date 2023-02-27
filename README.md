@@ -65,7 +65,7 @@
   </tr>
 </table>
 
-# 📈 Stats
+# Stats
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=zac-march&show_icons=true&theme=react&&hide_border=true"
