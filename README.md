@@ -52,7 +52,7 @@
         height="48"
         alt="HTML"
       />
-      <br /><strong>HTML/CSS</strong>
+      <br /><strong>HTML</strong>
      <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
