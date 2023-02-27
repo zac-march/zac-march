@@ -7,22 +7,6 @@
 <br/><a href="https://www.linkedin.com/in/zachariah-march"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="mailto:zacmarch101@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 
-# Technologies & Tools
-
-<table>
-  <tr>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain.svg"
-        width="48"
-        height="48"
-        alt="Azure"
-      />
-      <br /><strong>Azure</strong>
-    </td>
-  </tr>
-</table>
-
 # Languages
 
 <table>
@@ -61,6 +45,22 @@
         alt="CSS"
       />
       <br /><strong>CSS</strong>
+    </td>
+  </tr>
+</table>
+
+# Technologies & Tools
+
+<table>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain.svg"
+        width="48"
+        height="48"
+        alt="Azure"
+      />
+      <br /><strong>Azure</strong>
     </td>
   </tr>
 </table>
