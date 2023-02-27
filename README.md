@@ -49,13 +49,13 @@
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
         width="24"
-        height="24"
+        height="48"
         alt="HTML"
       />
       <img 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
         width="24"
-        height="24"
+        height="48"
         alt="CSS" />
       <br /><strong>HTML/CSS</strong>
     </td>
